@@ -1,0 +1,34 @@
+{
+    "name": "com.caspernetwork.sdk",
+    "version": "1.0.0",
+    "displayName": "Casper Network SDK",
+    "description": "Unity SDK for Casper blockchain integration - transfers, smart contracts, NFTs, key management",
+    "unity": "2022.3",
+    "unityRelease": "0f1",
+    "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1"
+    },
+    "keywords": [
+        "casper",
+        "blockchain",
+        "crypto",
+        "web3",
+        "nft",
+        "wallet"
+    ],
+    "author": {
+        "name": "SamDreamsMaker",
+        "url": "https://github.com/SamDreamsMaker"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SamDreamsMaker/com.caspernetwork.sdk.git"
+    },
+    "samples": [
+        {
+            "displayName": "Casper Wallet Demo",
+            "description": "Complete demo scene with wallet UI, transfers, and key import/export",
+            "path": "Samples~/CasperWalletDemo"
+        }
+    ]
+}

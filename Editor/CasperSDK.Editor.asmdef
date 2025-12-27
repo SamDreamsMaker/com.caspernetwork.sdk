@@ -1,0 +1,20 @@
+{
+    "name": "CasperSDK.Editor",
+    "rootNamespace": "CasperSDK.Editor",
+    "references": [
+        "CasperSDK.Runtime",
+        "Unity.TextMeshPro",
+        "Unity.TextMeshPro.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
